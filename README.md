@@ -24,8 +24,7 @@
 
 
 ## 📜 Certificações
-- CCNA (fev/26)
-- AWS CCP
+
 
 
 ## 📫 Contato
