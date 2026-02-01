@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🎈 Giovani Serra
 
-<!--
-**GiovaniSerra/GiovaniSerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎯 Network | Cloud | Cybersecurity Enthusiast  
+📍 Brasil | 🌍 Remoto**
 
-Here are some ideas to get you started:
+## 🧠 Áreas de Atuação
+- Redes (CCNA)
+- Cloud Computing (AWS)
+- Cibersegurança
+- Infraestrutura e Automação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e vendors
+- Cisco, Fortinet, Huawei, MicroTik, Nokia
+- AWS (EC2, VPC, IAM, S3)
+- Linux, Git
+- Terraform (em aprendizado)
+- Python (básico/intermediário)
+
+## 📂 Projetos em Destaque
+🔹 [Network Labs CCNA – Infraestrutura Corporativa](https://github.com/GiovaniSerra/Networking-labs)  
+🔹 [Cyber labs - Firewall FortiGate – Hardening e VPN](https://github.com/GiovaniSerra/Cyber-Sec)  
+🔹 [AWS labs – Arquitetura Segura](https://github.com/GiovaniSerra/AWS-labs)
+
+
+## 📜 Certificações
+- CCNA (fev/26)
+- AWS CCP
+
+
+## 📫 Contato
+- LinkedIn: link
