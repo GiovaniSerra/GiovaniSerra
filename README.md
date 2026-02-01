@@ -4,7 +4,7 @@
 📍 Brasil | 🌍 Remoto**
 
 ## 🧠 Áreas de Atuação
-- Redes (CCNA)
+- Redes
 - Cloud Computing (AWS)
 - Cibersegurança
 - Infraestrutura e Automação
