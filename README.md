@@ -17,9 +17,10 @@
 - Python (básico/intermediário)
 
 ## 📂 Projetos em Destaque
-🔹 [Network Labs CCNA – Infraestrutura Corporativa](https://github.com/GiovaniSerra/Networking-labs)  
-🔹 [Cyber labs - Firewall FortiGate – Hardening e VPN](https://github.com/GiovaniSerra/Cyber-Sec)  
-🔹 [AWS labs – Arquitetura Segura](https://github.com/GiovaniSerra/AWS-labs)
+🔹 [Network Labs](https://github.com/GiovaniSerra/Networking-labs)  
+🔹 [Cyber labs](https://github.com/GiovaniSerra/Cyber-Sec)  
+🔹 [AWS labs](https://github.com/GiovaniSerra/AWS-labs)
+🔹 [Enterprise Network](https://github.com/GiovaniSerra/tcc-enterprise-network)
 
 
 ## 📜 Certificações
