@@ -1,6 +1,6 @@
 # Giovani Serra
 
-** Networking Analyst | Cloud | Cybersecurity Enthusiast**
+**Networking Analyst | Cloud | Cybersecurity Enthusiast**
 
 ## Projetos em Destaque
 [Networking Labs](https://github.com/GiovaniSerra/Networking-labs)  
