@@ -1,31 +1,13 @@
-# 🎈 Giovani Serra
+# Giovani Serra
 
-**🎯 Network | Cloud | Cybersecurity Enthusiast  
-📍 Brasil | 🌍 Remoto**
+** Networking Analyst | Cloud | Cybersecurity Enthusiast**
 
-## 🧠 Áreas de Atuação
-- Redes
-- Cloud Computing (AWS)
-- Cibersegurança
-- Infraestrutura e Automação
+## Projetos em Destaque
+[Networking Labs](https://github.com/GiovaniSerra/Networking-labs)  
 
-## 🛠️ Tecnologias e vendors
-- Cisco, Fortinet, Huawei, MicroTik, Nokia
-- AWS (EC2, VPC, IAM, S3)
-- Linux, Git
-- Terraform (em aprendizado)
-- Python (básico/intermediário)
+[Enterprise Network](https://github.com/GiovaniSerra/tcc-enterprise-network)
 
-## 📂 Projetos em Destaque
-🔹 [Network Labs](https://github.com/GiovaniSerra/Networking-labs)  
-🔹 [Cyber labs](https://github.com/GiovaniSerra/Cyber-Sec)  
-🔹 [AWS labs](https://github.com/GiovaniSerra/AWS-labs)
-🔹 [Enterprise Network](https://github.com/GiovaniSerra/tcc-enterprise-network)
+[Cyber labs](https://github.com/GiovaniSerra/Cyber-Sec)  
 
+[AWS labs](https://github.com/GiovaniSerra/AWS-labs)
 
-## 📜 Certificações
-
-
-
-## 📫 Contato
-- LinkedIn: link
