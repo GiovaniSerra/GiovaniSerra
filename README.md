@@ -11,4 +11,4 @@
 
 [AWS labs](https://github.com/GiovaniSerra/AWS-labs)
 
-[EDN Hackathon - AWS](https://github.com/GiovaniSerra/Hackathon-EDN-HACK2HIRE-JUN26/tree/main/Projeto-Hackathon-idp)
+[AWS - EDN Hackathon ](https://github.com/GiovaniSerra/Hackathon-EDN-HACK2HIRE-JUN26/tree/main/Projeto-Hackathon-idp)
