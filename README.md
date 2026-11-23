@@ -10,6 +10,13 @@ My main interests are enterprise networking, cloud infrastructure, network autom
 
 I use practical labs and technical projects to develop my skills in network architecture, AWS cloud services, Python automation, and firewall technologies.
 
+### Certifications & Education
+
+* **AWS Certified Solutions Architect – Associate (SAA-C03)**
+* **AWS Certified Cloud Practitioner (CLF-C02)**
+* **Postgraduate Degree in Computer Networks and Cybersecurity** – HackOne
+* **B.Tech in IT Management** – FATEC Bragança Paulista
+
 ### Technical Skills
 
 | Area | Technologies |
@@ -24,15 +31,11 @@ I use practical labs and technical projects to develop my skills in network arch
 
 **[Network Automation | Cisco, FortiGate & Palo Alto](https://github.com/GiovaniSerra/projetoml)**
 
-Python-based network automation project covering Cisco switch configuration via SSH and API integrations with FortiGate and Palo Alto firewalls for site-to-site IPsec VPN configuration.
+Python network automation using SSH, REST/XML APIs and multi-vendor IPsec VPN configuration.
 
-**[AWS High Availability Architecture](https://github.com/GiovaniSerra/aws-labs/tree/main/aws-high-availability-web-app)**
+[](https://github.com/GiovaniSerra/aws-labs)
 
-Highly available AWS infrastructure architecture using VPC, EC2 Auto Scaling, Application Load Balancer, Aurora, EFS, and ElastiCache.
 
-**[AWS Event-Driven Architecture](https://github.com/GiovaniSerra/aws-labs/tree/main/aws-event-driven-architecture)**
-
-Serverless, event-driven application integrating Amazon EventBridge, AWS Lambda, API Gateway, DynamoDB, and WebSocket communication.
 
 **[AWS Hackathon | Intelligent Document Processing](https://github.com/GiovaniSerra/Hackathon-EDN-HACK2HIRE-JUN26/tree/main/Projeto-Hackathon-idp)**
 
@@ -48,4 +51,7 @@ Collection of networking labs and technical studies covering Cisco technologies,
 
 ### Current Focus
 
-Expanding my practical knowledge in enterprise networking, AWS cloud infrastructure, network security, and Python-based automation.
+* Expanding my practical knowledge in enterprise networking, AWS cloud infrastructure, network security, and Python-based automation.
+* Advancing NetDevOps workflows using Python and infrastructure automation.
+* Preparing for Fortinet NSE 4 (FortiOS) and Cisco CCNA certifications.
+* Preparing for AWS Certified Developer - Associate (DVA-C03).
