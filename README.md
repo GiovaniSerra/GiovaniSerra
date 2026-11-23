@@ -14,7 +14,7 @@ I use practical labs and technical projects to develop my skills in network arch
 
 * **AWS Certified Solutions Architect – Associate (SAA-C03)**
 * **AWS Certified Cloud Practitioner (CLF-C02)**
-* **Postgraduate Degree in Computer Networks and Cybersecurity** – HackOne
+* **Postgraduate Specialization in Computer Networks and Cybersecurity** – HackOne
 * **B.Tech in IT Management** – FATEC Bragança Paulista
 
 ### Technical Skills
